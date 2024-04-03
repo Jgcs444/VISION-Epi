@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07d5e7aa-93a4-4f92-a7dd-a9f41f189aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/VisionEPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/YoloV8_Trainamento.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/EPI-Detect.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/primeiro.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/yolov8l.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/yolov8n-cls.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/yolov8n.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/yolov8x-seg.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/models/yolov8x.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/pic/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/segment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/videos/capacete.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/videos/epi-1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/videos/epi-2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolo/videos/epi-3.mp4" afterDir="false" />
-    </list>
+    <list default="true" id="07d5e7aa-93a4-4f92-a7dd-a9f41f189aeb" name="Changes" comment="Arquivos do projeto TCC" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,9 +185,20 @@
       <option name="presentableId" value="Default" />
       <updated>1712074129400</updated>
     </task>
+    <task id="LOCAL-00001" summary="Arquivos do projeto TCC">
+      <option name="closed" value="true" />
+      <created>1712112763136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712112763136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Arquivos do projeto TCC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos do projeto TCC" />
   </component>
 </project>
