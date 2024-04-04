@@ -4,7 +4,7 @@ from ultralytics import YOLO
 model = YOLO('models/EPI-Detect.pt')
 
 
-video = cv2.VideoCapture('videos/epi-1.mp4')
+video = cv2.VideoCapture('videos/epi-3.mp4')
 #video = cv2.VideoCapture(1,cv2.CAP_DSHOW)
 
 while True:
